@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="33a7865a-f7b3-45f8-82d0-f1d42cc7aadb" name="devorch" url="http://box.mr.devorch.com">
+        <fileTransfer host="box.mr.devorch.com" port="22" privateKey="F:\apps\prikey.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
